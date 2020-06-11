@@ -1,9 +1,11 @@
 Supplementary material from
-Determining the evolution of an alpine glacier drainage system by solving inverse problems
-Inigo Irarrazaval 2020.
 
-I provide an overlook of introducing a gaussian random feld on Shreve's
-equation to add variability and produce a large variety of subglacial channels.
+Determining the evolution of an alpine glacier drainage system by solving inverse problems
+Irarrazaval et al 2020.
+Submitted to Journal of Glaciology June-2020
+
+Here I provide an overlook of the implicances of adding a gaussian random field on Shreve's
+equation. Results will add variability and produce a large variety of subglacial channels.
 
 To run the example:
 
