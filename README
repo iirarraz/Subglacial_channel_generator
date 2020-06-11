@@ -1,0 +1,22 @@
+Supplementary material from
+Determining the evolution of an alpine glacier drainage system by solving inverse problems
+Inigo Irarrazaval 2020.
+
+I provide an overlook of introducing a gaussian random feld on Shreve's
+equation to add variability and produce a large variety of subglacial channels.
+
+To run the example:
+
+First. Download/clone Topotoolbox2
+Schwanghart, W., & Scherler, D. (2014). Short Communication:
+TopoToolbox 2 – MATLAB-based software for topographic analysis and modeling in Earth surface sciences.
+Earth Surf. Dynam., 2(1), 1-7. doi:10.5194/esurf-680 2-1-2014
+==> https://topotoolbox.wordpress.com/download/
+
+Second. Download glacier bed and thickness from:
+Lindbäck, K., Pettersson, R., Doyle, S. H., Helanow, C., Jansson, P., Kristensen, S. S., Stenseng, L., Forsberg, R., and Hubbard, A. L.:
+High-resolution ice thickness and bed topography of a land-terminating section of the Greenland Ice Sheet,
+Earth Syst. Sci. Data, 6, 331–338, https://doi.org/10.5194/essd-6-331-2014, 2014.
+==> Geotiff download links here
+http://store.pangaea.de/Publications/Lindbaeck_et_al_2014/GAP_DEM_bed_V1_1_geotiff.zip
+http://store.pangaea.de/Publications/Lindbaeck_et_al_2014/GAP_DEM_thickness_V1_geotiff.zip
